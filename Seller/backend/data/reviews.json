@@ -1,0 +1,9 @@
+[
+  {
+    "product": "ObjectId('67558035896079d4be32d524')",
+    "buyer": "ObjectId('67557d49896079d4be32d521')",
+    "rating": 5,
+    "comment": "Excellent quality!",
+    "createdAt": "2024-12-08T15:00:00Z"
+  }
+]

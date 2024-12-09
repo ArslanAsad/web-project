@@ -1,0 +1,9 @@
+[
+  {
+    "order": "ObjectId('6755812f896079d4be32d52c')",
+    "amount": 40,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "transactionId": "TXN123456"
+  }
+]

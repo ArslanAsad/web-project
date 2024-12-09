@@ -1,0 +1,10 @@
+[
+  {
+    "seller": "ObjectId('67557d10896079d4be32d51f')",
+    "code": "SAVE20",
+    "discountPercentage": 20,
+    "validFrom": "2024-12-01T00:00:00Z",
+    "validTo": "2024-12-31T23:59:59Z",
+    "products": ["ObjectId('64b59e8a8fa2a83c3c3e84c3')"]
+  }
+]

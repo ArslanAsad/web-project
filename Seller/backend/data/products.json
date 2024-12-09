@@ -1,0 +1,23 @@
+[
+  {
+    "seller": "ObjectId('67557d10896079d4be32d51f')",
+    "name": "Wireless Mouse",
+    "description": "A high-quality wireless mouse.",
+    "price": 20,
+    "salePrice": 15,
+    "stock": 50,
+    "category": "Electronics",
+    "tags": ["wireless", "mouse", "tech"],
+    "images": ["mouse1.jpg", "mouse2.jpg"]
+  },
+  {
+    "seller": "ObjectId('67557d10896079d4be32d51f')",
+    "name": "Keyboard",
+    "description": "Mechanical keyboard with RGB lighting.",
+    "price": 60,
+    "stock": 30,
+    "category": "Accessories",
+    "tags": ["keyboard", "mechanical", "RGB"],
+    "images": ["keyboard1.jpg"]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "user": "ObjectId('67557d10896079d4be32d51f')",
+    "message": "New order!",
+    "type": "Order Update",
+    "read": false
+  },
+  {
+    "user": "ObjectId('67557d10896079d4be32d51f')",
+    "message": "Your promotion code is active!",
+    "type": "Promotion",
+    "read": true
+  }
+]

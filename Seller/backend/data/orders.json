@@ -1,0 +1,14 @@
+[
+  {
+    "seller": "ObjectId('67557d10896079d4be32d51f')",
+    "buyer": "ObjectId('67557d49896079d4be32d521')",
+    "products": [
+      {
+        "product": "ObjectId('67558035896079d4be32d524')",
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 40,
+    "status": "Processing"
+  }
+]
